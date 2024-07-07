@@ -1,9 +1,5 @@
 Desafío LiterAlura
 
-
-ChatGPT
-Claro, aquí tienes una posible frase para describir tu proyecto:
-
 Desarrollaré un Catálogo de Libros interactivo que permita a los usuarios interactuar 
 mediante la consola, ofreciendo 7 opciones de interacción distintas. 
 Utilizaré una API específica para buscar y almacenar libros en una base de datos,
